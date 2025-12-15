@@ -1,0 +1,53 @@
+ASC PROPRIETARY RESEARCH LICENSE v1.1 (VIEW‑ONLY, NO‑USE) | Copyright (c) 2025 Crystal Davis | A Simple Company (ASC). All rights reserved.
+
+This repository and all contents contained herein (including but not limited to source code, documentation, diagrams, models, notebooks, images, and conceptual materials) constitute a private, proprietary research system.
+Permission is granted solely to view the contents of this repository for the purposes of:
+- conceptual awareness,
+- academic or technical curiosity,
+- non‑operational evaluation.
+
+No other rights are granted.
+────────────────────────────────────────────────────────
+RESTRICTIONS
+────────────────────────────────────────────────────────
+1. No Use or Execution
+   The code and materials in this repository may not be executed, run, compiled, integrated, deployed, or used in any system, environment, product, service, experiment, or workflow of any kind.
+2. No Copying or Reproduction
+   You may not copy, reproduce, mirror, archive, screenshot, extract, or otherwise duplicate any portion of this repository, in whole or in part, in any medium.
+3. No Modification or Derivative Works
+   You may not modify, adapt, translate, transform, reverse engineer, or create derivative works based on any part of this repository.
+4. No Distribution
+   You may not distribute, publish, sublicense, share, transmit, or make available any portion of this repository to any third party, whether publicly or privately.
+5. No Contributions
+   Contributions of any kind are not permitted. This includes (but is not limited to):
+   - Pull Requests
+   - Code submissions
+   - Forks
+   - Patches
+   - Refactors
+   - Feature suggestions implemented in code
+   - Derivative implementations
+   Opening Issues for discussion or clarification does not grant any rights to contribute, nor does it create any license or permission to the code or concepts.
+6. No Research or Commercial Use
+   The materials may not be used for commercial, non‑commercial, open‑source, closed‑source, academic, research, internal, or experimental purposes without explicit prior written permission from the copyright holder.
+7. No Branding or Attribution Rights
+   No rights are granted to use the name “A Simple Company,” “ASC,” “SoulOS,” or any associated names, trademarks, logos, visual language, or intellectual property in connection with any external work.
+
+────────────────────────────────────────────────────────
+DISCLAIMER
+────────────────────────────────────────────────────────
+THE REPOSITORY AND ALL CONTENTS ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THIS INCLUDES, BUT IS NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, CORRECTNESS, SECURITY, OR NON‑INFRINGEMENT.
+UNDER NO CIRCUMSTANCES SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIMS, DAMAGES, LOSSES, OR CONSEQUENCES ARISING FROM VIEWING, ACCESSING, DOWNLOADING, OR ATTEMPTING TO USE THE CONTENTS OF THIS REPOSITORY.
+
+────────────────────────────────────────────────────────
+ACCEPTANCE OF TERMS
+────────────────────────────────────────────────────────
+By accessing, viewing, cloning, or downloading any portion of this repository, you acknowledge that you have read, understood, and agreed to be bound by the terms of this license. If you do not agree, you must immediately discontinue access and delete any locally stored copies.
+
+────────────────────────────────────────────────────────
+CONTACT
+────────────────────────────────────────────────────────
+Requests for permission, licensing inquiries, or authorized access must be directed to:
+Crystal Davis  
+Principal Systems Researcher  
+A Simple Company (ASC)
